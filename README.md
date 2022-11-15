@@ -12,9 +12,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você tem uma máquina `<Windows / Linux / Mac>`.
-* Você tem o [git](https://git-scm.com/r) instalado na sua máquina.
+* Você tem o [git](https://git-scm.com) instalado na sua máquina.
 * Você tem o [node](https://nodejs.org/en/) instalado na sua máquina.
 * Você tem algum `emulador` instalado na sua máquina ou `device físico` com o aplicativo `Expo Go` instalado.
 
@@ -36,7 +35,7 @@ $ npm install ou yarn install
 
 ## ☕ Usando I'm here
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar I'm here, siga estas etapas:
 
 bash:
 ```
